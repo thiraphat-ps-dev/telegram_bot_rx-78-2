@@ -1,5 +1,5 @@
 from apscheduler.schedulers.blocking import BlockingScheduler
-from telegram_bot-rx-78-2 import telegram_bot
+from telegram_bot import telegram_bot
 import time
 sched = BlockingScheduler()
 

@@ -15,3 +15,4 @@ rfc3986==1.4.0
 six==1.15.0
 sniffio==1.1.0
 urllib3==1.25.9
+APScheduler==3.0.0

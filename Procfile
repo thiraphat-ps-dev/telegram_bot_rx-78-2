@@ -1,1 +1,1 @@
-web: python telegram_bot-rx-78-2.py
+clock: python clock.py
